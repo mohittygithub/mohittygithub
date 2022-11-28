@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mohittygithub
-- 👀 I’m interested in learning backend and frontend technologies.
-- 🌱 I’m currently learning React JS
+- 👀 I’m experienced in learning backend and frontend technologies.
+- 🌱 I’m currently working with Spring Boot and React JS
 - 💞️ I’m looking to collaborate on React JS, Node JS, Spring Boot
-- 📫 How to reach me mtyagi.dev@gmail.com
+- 📫 How to reach me smartfriendmohit@gmail.com
 
 <!---
 mohittygithub/mohittygithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
